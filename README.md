@@ -1,4 +1,4 @@
-# Full Stack To-Do List App
+## Full Stack To-Do List App
 
 This is a full stack To-Do List application.
 
@@ -17,7 +17,7 @@ This is a full stack To-Do List application.
 - Backend API using Express
 
 ## Project Structure
-
+```text
 To_Do_List
 │
 ├── backend
@@ -29,6 +29,7 @@ To_Do_List
     ├── index.html
     ├── script.js
     ├── style.css
+```
 
 ## How to Run
 
