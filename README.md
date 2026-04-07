@@ -2,6 +2,8 @@
 
 This is a full stack To-Do List application.
 
+---
+
 ## Technologies Used
 - HTML
 - CSS
@@ -10,11 +12,15 @@ This is a full stack To-Do List application.
 - Express.js
 - MongoDB
 
+  ---
+
 ## Features
 - Add tasks
 - Delete tasks
 - Tasks stored in MongoDB
 - Backend API using Express
+
+  ---
 
 ## Project Structure
 ```text
@@ -31,6 +37,8 @@ To_Do_List
     ├── style.css
 ```
 
+---
+
 ## How to Run
 
 1. Start MongoDB
@@ -45,5 +53,3 @@ To_Do_List
 
 ---
 
-## Author
-Shubhanshi Shaurya
